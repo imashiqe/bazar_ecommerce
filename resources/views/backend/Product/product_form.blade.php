@@ -211,13 +211,13 @@ $('#category_name').keyup(function() {
 
 
     </script>
-tinymce
+<!-- tinymce
 <script src='https://cdn.tiny.cloud/1/2k7ja1p6iahhqwamx8nu4wfcqyuy8x7uchckhprd56d7j0x5/tinymce/5/tinymce.min.js' referrerpolicy="origin">
 </script>
 <script>
   tinymce.init({
     selector: '#description'
   });
-</script>
+</script> -->
 
 @endsection
