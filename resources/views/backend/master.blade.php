@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>365bazar | Dashboard</title>
+  <title>Tantsoft | Dashboard</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -179,7 +179,7 @@
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
       <img src="{{ asset('assets/dist/img/365bazarapp.jpg') }}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">365bazar </span>
+      <span class="brand-text font-weight-light">Tantsoft </span>
     </a>
 
     <!-- Sidebar -->
@@ -934,7 +934,7 @@
    @yield('content')
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>  All Rights Reserved । 365bazar । Copyright &copy; 2022   । Developed By <a href="https://gnexer.com/">Gnexer</a>.</strong>
+    <strong>  All Rights Reserved । Tantsoft । Copyright &copy; <?php echo date("Y"); ?>   । Developed By <a href="https://tantsoft.com/">Tantsoft</a>.</strong>
    
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0
